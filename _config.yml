@@ -1,13 +1,13 @@
-title: "blog title"
-author: "Blog Author"
-description: "Really cool blog about ... something"
-#subheading: "Really cool blog about ... something"
+title: "javascript:void(0);"
+author: "Kyle J. Kemp"
+description: "I post things"
+#subheading: "Most times"
 more: "read more"
-url: "http://niklabs.me"
-baseurl: "/contrast" # comment out if in root directory
+url: "http://blog.seiyria.com"
+#baseurl: "/contrast" # comment out if in root directory
 
 comments:
-    disqus: "niklasbuschmann"
+    disqus: "seiblog"
 #    isso: "comments.mysite.org"
 
 style:
@@ -23,12 +23,12 @@ style:
         even: "#222222"
 
 links:
-  - github: "https://github.com/me/"
-  - twitter: "https://twitter.com/me/"
-  - google-plus: "https://plus.google.com/+me"
-  - reddit: "https://www.reddit.com/user/me/"
-  - youtube: "https://www.youtube.com/user/me"
-  - steam: "http://steamcommunity.com/id/me/"
+  - github: "https://github.com/seiyria/"
+  - twitter: "https://twitter.com/seiyria/"
+  - google-plus: "https://plus.google.com/+KyleJKemp"
+  - reddit: "https://www.reddit.com/user/seiyria/"
+#  - youtube: "https://www.youtube.com/user/m"
+  - steam: "http://steamcommunity.com/id/seiyria/"
 
 excerpt_separator: "\n\n\n"
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
