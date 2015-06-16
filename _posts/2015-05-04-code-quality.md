@@ -18,6 +18,7 @@ Some of the easiest tools you can set up for your project are [JSHint](http://js
 
 ### JSHint
 JSHint provides some static analysis capabilities, and is more geared towards semantics instead of style (in recent releases). Some things it can do for you:
+
 * Warn when you have an undefined variable that you're trying to use
 * Warn when you're not using a variable
 * Enforce quotation standards (comparing `'` and `"`)
@@ -36,6 +37,7 @@ If you're interested, you can see [my `.jshintrc` here](https://github.com/seiyr
 JSCS is a tool dedicated to enforcing very specific style constraints. This can prevent you from having a code standards guide, as it is simply enforced by the tool. Some might consider this pedantic, but I think it's a great tool to keep code consistent without much effort, as errors simply fail the build!
 
 JSCS has a [very in-depth list of options](http://jscs.info/rules.html), and the best part is that they all have inverses. If you want to require semi-colons, you can tell it that. If you want to enforce a no-semi-colon rule, you can do that too. Here are some of the styles I use JSCS for:
+
 * No empty code blocks
 * Require `var func = function(){}` instead of `function func()`
 * Require `else` to be on the same line as the closing `}` for an `if` statement
@@ -97,6 +99,7 @@ Yikes! What happened in the middle there?
 Let's take a look at the [commit where my score dipped quite a bit](https://www.bithound.io/github/seiyria/c/commit/24714963dd138375a3ebb805a1d60e24ee2054b7). Since my overall score is an average of all my other file scores, having one file tank is a pretty serious blow to a small project. Specifically, in this commit, my main feature added was saving and loading. [Here's the problem file](https://www.bithound.io/github/seiyria/c/blob/24714963dd138375a3ebb805a1d60e24ee2054b7/src/js/gamestate.js). If you expand, you see that..  wait, that's a pretty simple function, isn't it?
 
 To most, yes, this function is pretty simple, but it also has a glaring amount of repetition and some unnecessary nesting. As far as I can tell, complexity is a combination of: 
+
 * number of lines in a function
 * number of branches in a function
 * number of assignments in a function
