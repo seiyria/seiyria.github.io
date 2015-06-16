@@ -7,8 +7,8 @@ categories: javascript, quality
 Welcome! Today I'd like to talk about another subject which can't be emphasized enough: **Code Quality**. This entails a lot of tools and patterns that ultimately come together to make your game more solid and programmer friendly. Even if you're working alone on a project, these tools can save you some precious debugging time by pointing out simple errors, if not more complex ones. I'll be using my [current project, c](https://github.com/seiyria/c) as an example where possible.
 
 A few notes before we get started:
-* Some of the following tools are specific to the JavaScript ecosystem.
-* Some of the following tools are only free for open source projects, so bear in mind that you might be missing out on the awesome! 
+- Some of the following tools are specific to the JavaScript ecosystem.
+- Some of the following tools are only free for open source projects, so bear in mind that you might be missing out on the awesome! 
 
 ## Style Checking
 Some of the easiest tools you can set up for your project are [JSHint](http://jshint.com/about/) and [JSCS](http://jscs.info/). These tools provide _basic_ static analysis capabilities (basically, checking code correctness at compile-time instead of runtime) and are highly customizable. JSCS even provides a [`preset`](http://jscs.info/overview.html#presets) option to allow you to better adopt the habits of the pros developing more widely-used software.
