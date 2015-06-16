@@ -61,7 +61,7 @@ For GitHub, if you're using [Travis CI](https://travis-ci.org/), you get some ve
 
 The nice thing about CI is that it shows [historical data](https://travis-ci.org/seiyria/c/builds), so you can see every build that ever occurred for your repository. Travis is *very* easy to set up. For example, here's [my `.travis.yml` file](https://github.com/seiyria/c/blob/master/.travis.yml):
 
-{% highlight yml %}
+{% highlight yaml %}
 language: node_js
 node_js:
   - "0.12"
