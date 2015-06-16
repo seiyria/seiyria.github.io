@@ -86,6 +86,7 @@ var MyGame = function() {
 If you've been following along, you'll notice that I can no longer go into the console and type `MyGame.growthRate = 10000000000` or `for(var i=0; i<10000; i++) { MyGame.grow(); }` -- it's all private! There are a few more approaches here that could be taken, such as using `RequireJS` or other tools to manage your files, but lets keep it simple for now.
 
 Some games that have exploits like this available:
+
 * [BlackMarket](http://totominc.github.io/blackmarket/) -- `devMode(2)` gives you 100 quintillon money. More succinctly, they expose `money` and `prestige` as global objects, which can be freely manipulated. There's also a `cheats.js` file. If you're using grunt or gulp or some build system, this should be excluded from your distribution build for sure.
 * [Meme Clicker](http://sixbytesunder.com/memeclicker/) -- `app.memes = 1000000000000000000`
 * [A Dark Room](http://adarkroom.doublespeakgames.com/) -- literally everything is exposed. The game is more complex than "get currency, spend currency" though, so I'll leave this one as an exercise to the reader.
