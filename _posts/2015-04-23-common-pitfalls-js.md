@@ -8,6 +8,8 @@ Welcome! You might be reading this out of curiosity, or because you want to impr
 
 _NB: This will only apply to vanilla JS applications, which I see more commonly. Frameworks like AngularJS and such are out of scope for this post. Advanced techniques such as using a debugger, while slightly more on topic, will also be disregarded for now._
 
+
+
 Lets talk about me for a second: I'm [seiyria](http://seiyria.com) and I'm a professional mostly-JavaScript software developer. That is to say, I really like JavaScript -- the ecosystem, the language, and the reach of JavaScript (did you know, there's hardware _powered by JavaScript_? Awesome!). I've been programming for 10+ years now, sometimes I make applications, sometimes I make games -- a little bit of everything.
 
 Okay, enough about me, lets go into the things you'll care about.
