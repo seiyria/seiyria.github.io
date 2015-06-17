@@ -1,15 +1,15 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm 23, like to write code, and I have a [lot of projects](https://github.com/seiyria). I've made web applications, [an idle rpg](https://github.com/IdleLands), [a documentation tool](https://github.com/kellyirc/doks), [a small incremental game](https://github.com/seiyria/c), and [an irc bot](https://github.com/kellyirc/kurea).
 
-### More Information
+I'm also a part time contributor to [herosheets](http://www.herosheets.com/).
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently, my main project is a small GPS game called [Reactive Retro](https://github.com/reactive-retro). I'm learning to use [Ionic](http://ionicframework.com), [SocketCluster](http://socketcluster.io) and a small other assortment of tools.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kyle at seiyria dot com](mailto:kyle@seiyria.com)
