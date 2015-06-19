@@ -10,6 +10,10 @@ I'm also a part time contributor to [herosheets](http://www.herosheets.com/).
 
 Currently, my main project is a small GPS game called [Reactive Retro](https://github.com/reactive-retro). I'm learning to use [Ionic](http://ionicframework.com), [SocketCluster](http://socketcluster.io) and a small other assortment of tools.
 
+### Hire me
+
+You can find a pdf of my resume [here](http://seiyria.com/resume.pdf) and an interactive version [here](http://seiyria.com/interactive-resume).
+
 ### Contact me
 
 [kyle at seiyria dot com](mailto:kyle@seiyria.com)
