@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm 23, like to write code, and I have a [lot of projects](https://github.com/seiyria). I've made web applications, [an idle rpg](https://github.com/IdleLands), [a documentation tool](https://github.com/kellyirc/doks), [a small incremental game](https://github.com/seiyria/c), and [an irc bot](https://github.com/kellyirc/kurea).
+I'm 23, like to write code, and I have a [lot of projects](https://github.com/seiyria). I've made web applications, [an idle rpg](https://github.com/IdleLands), [a documentation tool](https://github.com/kellyirc/doks), [a small incremental game](https://github.com/seiyria/c), [a small (incomplete) platformer](http://seiyria.com/defiled-dreams/), and [an irc bot](https://github.com/kellyirc/kurea).
 
 I'm also a part time contributor to [herosheets](http://www.herosheets.com/).
 
