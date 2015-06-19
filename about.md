@@ -16,4 +16,4 @@ You can find a pdf of my resume [here](http://seiyria.com/resume.pdf) and an int
 
 ### Contact me
 
-[kyle at seiyria dot com](mailto:kyle@seiyria.com)
+You can email me at [kyle at seiyria dot com](mailto:kyle@seiyria.com), or hit one of the buttons below for your preferred medium.
