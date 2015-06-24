@@ -129,7 +129,7 @@ This month has been the busiest month of them all. A few new projects appeared a
 
 * [squelch](https://github.com/squelch-irc/squelch) - Just this week, we (the same we from above) started again on an IRC client. We made one a long, long time ago. It didn't turn out so well, but now we're coming back to the idea with new ideas and way more experience.
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - D3-cloud is a library for D3.js that generates a wordcloud. It looks pretty nice! I contributed a small documentation change.
-* [kurea-contrib-wordcloud] - A wordcloud plugin for Kurea. Simply, it generates wordclouds for different IRC channels. I had some trouble using d3-cloud at first so I ended up going with [another library](https://github.com/timdream/wordcloud2.js). Overall, this was a pretty fun project -- Kurea needed some internal work to have a webserver, but past that, smooth sailing.
+* [kurea-contrib-wordcloud](https://github.com/kellyirc/kurea-contrib-wordcloud) - A wordcloud plugin for Kurea. Simply, it generates wordclouds for different IRC channels. I had some trouble using d3-cloud at first so I ended up going with [another library](https://github.com/timdream/wordcloud2.js). Overall, this was a pretty fun project -- Kurea needed some internal work to have a webserver, but past that, smooth sailing.
 * [seiyria.github.io](http://github.com/seiyria/seiyria.github.io) - This blog, you're reading it!
 * [vf-styleguide](http://versifittechnologies.github.io/styleguide/) - I set up a styleguide for my place of employment to help explain why we do what we do design-wise, with some examples of both good and bad things.
 
