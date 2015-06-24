@@ -22,7 +22,7 @@ Without further ado, lets dig in! I'm going to try to keep each description as s
 
 <iframe class="highcharts-iframe" src="//cloud.highcharts.com/embed/atysud" style="border: 0; width: 100%; height: 500px"></iframe>
 
-* IdleLands - This was the month I debuted IdleLands. It [wasn't very well received](http://www.reddit.com/r/incremental_games/comments/2b91w3/idlelands_debut_version/), but that was no reason for me to stop working on it.
+This was the month I debuted IdleLands. It [wasn't very well received](http://www.reddit.com/r/incremental_games/comments/2b91w3/idlelands_debut_version/), but that was no reason for me to stop working on it.
 
 * [idle.land](https://github.com/IdleLands/idle.land) - This is a web interface for IdleLands. Partly because I wanted players to have something to look at, and partly because I wanted to learn how to use [Meteor](http://meteor.com). I still keep it running, but as for if it shows up... YMMV. [Check it out!](http://idle.land/s/)
 
