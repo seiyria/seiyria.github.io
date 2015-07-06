@@ -111,7 +111,7 @@ Another great month -- lots of new projects! I started a small project and finis
 * [Orchid-IRC](https://github.com/Leafs/Orchid-IRC) - An IRC client. I contributed some documentation fixes!
 * [tilesort-gallery](https://github.com/VersifitTechnologies/tilesort-gallery) - A small directive that is an image gallery, but better. Also, created to some company-specific specifications, but released because it might be useful to others.
 * [Yarn](https://github.com/InfiniteAmmoInc/Yarn) - A small dialog editor created for a specific game. I added in the glorious [ace editor](http://ace.c9.io/) to help with syntax highlighting for their specific usage case.
-* [ntc.js](https://github.com/seiyria/ntc.js) - ntc or "name that color" is a small project that takes a hex/rgb color and converts it to a "real name" -- I rehosted it (with permission) and fixed a smal bug with it.
+* [ntc.js](https://github.com/seiyria/ntc.js) - ntc or "name that color" is a small project that takes a hex/rgb color and converts it to a "real name" -- I rehosted it (with permission) and fixed a small bug with it.
 
 <iframe class="highcharts-iframe" src="//cloud.highcharts.com/embed/orogyp" style="border: 0; width: 100%; height: 500px"></iframe>
 
