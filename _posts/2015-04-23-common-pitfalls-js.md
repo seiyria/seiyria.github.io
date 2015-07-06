@@ -14,7 +14,7 @@ Lets talk about me for a second: I'm [seiyria](http://seiyria.com) and I'm a pro
 
 Okay, enough about me, lets go into the things you'll care about.
 
-First, I'd like to talk about some basic client-side things that can be exploited. Later, I'll get into protecting your server (as much as you can, anyway). It's good to note that your game, if it's client side only, can never be fully protected. You can take measures to do so, but there are more techniques not listed here that can be performed.
+First, I'd like to talk about some basic client-side things that can be exploited. Later, I'll get into protecting your server (as much as you can, anyway). **It's good to note that your game, if it's client side only, can never be fully protected.** You can take measures to do so, but there are more techniques not listed here that can be performed.
 
 ### "Clean Code"
 
