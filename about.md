@@ -9,10 +9,12 @@ I'm 23, like to write code, and I have a [lot of projects](https://github.com/se
 I'm also a part time contributor to [herosheets](http://www.herosheets.com/).
 
 My current projects include:
+
 * [A small, idle roguelike game](https://github.com/seiyria/Roguathia).
 * [A tournament bracket and user management system](https://github.com/seiyria/openchallenge).
 
 Some of my abandoned projects include:
+
 * A small GPS game called [Reactive Retro](https://github.com/reactive-retro). I learned to use [Ionic](http://ionicframework.com), [SocketCluster](http://socketcluster.io) and a small other assortment of tools.
 
 ### Hire me
