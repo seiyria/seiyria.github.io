@@ -10,7 +10,7 @@ I'm also a part time contributor to [herosheets](http://www.herosheets.com/).
 
 My current projects include:
 
-* A small GPS game called [Reactive Retro](https://github.com/reactive-retro). I learned to use [Ionic](http://ionicframework.com), [SocketCluster](http://socketcluster.io) and a small other assortment of tools.
+* A small GPS game called [Reactive Retro](https://github.com/reactive-retro). I'm learning to use [Ionic](http://ionicframework.com), [SocketCluster](http://socketcluster.io) and a small other assortment of tools.
 * [A tournament bracket and user management system](https://github.com/seiyria/tournamentmango).
 
 ### Hire me
