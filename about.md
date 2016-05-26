@@ -30,7 +30,7 @@ My current projects include:
 
 ### Hire me
 
-You can find a pdf of my resume [here](http://seiyria.com/resume.pdf) and an interactive version [here](http://seiyria.com/interactive-resume).
+You can find a pdf of my resume [here](http://seiyria.com/resume.pdf) and an (outdated) interactive version [here](http://seiyria.com/interactive-resume).
 
 ### Contact me
 
