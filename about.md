@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm 23, like to write code, and I have a [lot of projects](https://github.com/seiyria) - many web applications/games:
+I'm 24, like to write code, and I have a [lot of projects](https://github.com/seiyria) - many web applications/games:
 
 - an [idle rpg](https://github.com/IdleLands)
 - a [documentation tool](https://github.com/kellyirc/doks)
