@@ -6,6 +6,7 @@ permalink: /about/
 
 I'm 24, like to write code, and I have a [lot of projects](https://github.com/seiyria) - many web applications/games:
 
+- a [slider control with a bootstrap theme (bootstrap-slider)](https://github.com/seiyria/bootstrap-slider)
 - an [idle rpg](https://github.com/IdleLands) [[idle.land](http://idle.land)]
 - a [documentation tool](https://github.com/kellyirc/doks)
 - a [small incremental game](https://github.com/seiyria/c)
@@ -24,11 +25,11 @@ I'm 24, like to write code, and I have a [lot of projects](https://github.com/se
 - a [MMORPG fansite](https://github.com/seiyria/drakkar) [[drakkar](http://seiyria.com/drakkar)]
 - a [point of sale system](https://github.com/seiyria/posys)
 
-I also help maintain a [mildly successful open source project](https://github.com/seiyria/bootstrap-slider), and I'm a part time contributor to [herosheets](http://www.herosheets.com/), and contribute regularly to various projects.
+I have previously contributed to [herosheets](http://www.herosheets.com/) and a variety of smaller projects.
 
 My current projects include:
 
-* [A point of sale system](https://github.com/seiyria/posys)
+* An [idle rpg](https://github.com/IdleLands) [[idle.land](http://idle.land)]
 
 ### Hire me
 
