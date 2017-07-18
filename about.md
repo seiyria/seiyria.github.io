@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm 24, like to write code, and I have a [lot of projects](https://github.com/seiyria) - many web applications/games:
+I'm 25, like to write code, and I have a [lot of projects](https://github.com/seiyria) - many web applications/games:
 
 - a [slider control with a bootstrap theme (bootstrap-slider)](https://github.com/seiyria/bootstrap-slider)
 - an [idle rpg](https://github.com/IdleLands) [[idle.land](http://idle.land)]
@@ -24,12 +24,11 @@ I'm 24, like to write code, and I have a [lot of projects](https://github.com/se
 - an [app for a convention aggregator called tabletop.events](https://github.com/seiyria/events.tabletop.app)
 - a [MMORPG fansite](https://github.com/seiyria/drakkar) [[drakkar](http://seiyria.com/drakkar)]
 - a [point of sale system](https://github.com/seiyria/posys)
+- a [MORPG](https://github.com/LandOfTheRair/landoftherair)
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) and a variety of smaller projects.
 
-My current projects include:
-
-* An [idle rpg](https://github.com/IdleLands) [[idle.land](http://idle.land)]
+I'm not currently working on anything.
 
 ### Hire me
 
