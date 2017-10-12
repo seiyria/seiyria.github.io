@@ -64,7 +64,6 @@ git push dokku master
 Afterwards, I set up LetsEncrypt with a few more commands:
 ```
 sudo dokku plugin:install https://github.com/dokku/dokku-letsencrypt.git
-dokku certs:generate landoftherair server.rair.land
 dokku config:set --no-restart landoftherair DOKKU_LETSENCRYPT_EMAIL=kyle@seiyria.com
 dokku domains:add landoftherair server.rair.land
 dokku letsencrypt landoftherair
