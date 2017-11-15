@@ -8,7 +8,7 @@ Lately, I've been playing with [deepstream.io](https://deepstreamhub.com/open-so
 
 So, to do that, I needed token auth (at least, something to test with) and anonymous auth.
 
-Deepstream provides identifiers for each client and provider that connects, which you can get via `data.id` after a successful login. For some reason, I was not getting my own back from my auth service. As it turns out, you need to set a `username` AND send the `id` back in the `clientData` section. The  [current docs](https://deepstreamhub.com/tutorials/guides/http-webhook-auth/#set-up-a-simple-http-authentication-server) don't explain this super well. Here is my http service, as a result.
+Deepstream provides identifiers for each client and provider that connects, which you can get via `data.id` after a successful login. For some reason, I was not getting my own back from my auth service. As it turns out, you need to set a `username` AND send the `id` back in the `clientData` section. The  [current docs](https://deepstreamhub.com/tutorials/guides/http-webhook-auth/#set-up-a-simple-http-authentication-server) don't explain this super well.
 
 Here is my resulting service, maybe it can help someone else struggling with this problem:
 
