@@ -12,6 +12,8 @@ There are a lot of NodeJS PaaS' that I've worked with previously - I really want
 * Your deploys get stuck?
 * Anything that's out of your control happens?
 
+
+
 Sure, you can contact support and hope it gets fixed. And to their credit, some of these providers have fantastic and nearly immediate support. But after you put up with these issues periodically for a while, you get fed up. I got fed up.
 
 A few months ago, someone put a bug in my ear for [Scaleway](https://www.scaleway.com/). I dismissed it because I didn't want to manage my own infrastructure. Nevertheless, I kept my ears open at projects like [Dokku](https://github.com/dokku/dokku) for when things would inevitably get out of control. Today, I decided to take a leap and finally move away from my provider and host my project myself. It only took an hour.
