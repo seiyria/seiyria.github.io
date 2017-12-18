@@ -6,6 +6,8 @@ categories: auth0
 
 It's no secret that I use [Auth0](http://auth0.com) for nearly all of my projects. Generally, I'll just use the base offering, take the token it gives me, and move on. However, this time, I wanted to actually try to more fully utilize some of the features Auth0 provides. I didn't want to keep having to do a back-and-forth "sign up" flow, where I give my server a token, the server validates it, then checks if I've signed up before. If not, it would send a message back saying "hey, you need a username" and that dance would continue until the user is fully registered. 
 
+
+
 This time, I'm going to use the username provided by Auth0, and show you how to add it to the `id_token` payload so you don't have to make an extra API call to get it.
 
 It's pretty simple. In your Auth0 tenant, head over to Rules. Hit the big "Create Rule" button, and select the blank template.
