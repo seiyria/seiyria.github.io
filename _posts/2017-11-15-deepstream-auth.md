@@ -6,6 +6,8 @@ categories: deepstream
 
 Lately, I've been playing with [deepstream.io](https://deepstreamhub.com/open-source/?io)@3.1.1 making a realtime game engine (read: wrapper) on top of it. This has provided me with an innumerable amount of challenges. One of them, today, was trying to set up an authentication service for my self hosted Deepstream instance. Reason being, I'm transitioning away from DSHub, because my needs will not scale with their plans. So, I took the plunge and worked on setting up the basics to get my small project working again.
 
+
+
 So, to do that, I needed token auth (at least, something to test with) and anonymous auth.
 
 Deepstream provides identifiers for each client and provider that connects, which you can get via `data.id` after a successful login. For some reason, I was not getting my own back from my auth service. As it turns out, you need to set a `username` AND send the `id` back in the `clientData` section. The  [current docs](https://deepstreamhub.com/tutorials/guides/http-webhook-auth/#set-up-a-simple-http-authentication-server) don't explain this super well.
