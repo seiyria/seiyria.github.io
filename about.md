@@ -24,7 +24,9 @@ I'm 25, like to write code, and I have a [lot of projects](https://github.com/se
 - an [app for a convention aggregator called tabletop.events](https://github.com/seiyria/events.tabletop.app)
 - a [MMORPG fansite](https://github.com/seiyria/drakkar) [[drakkar](http://seiyria.com/drakkar)]
 - a [point of sale system](https://github.com/seiyria/posys)
-- a [MORPG](https://github.com/LandOfTheRair/landoftherair)
+- a [MORPG](https://github.com/LandOfTheRair/landoftherair) [[rair.land](http://rair.land)]
+- an [inventory management system](https://github.com/seiyria/inveinta) [[inveinta](https://inveinta.netlify.com)]
+- an [experimental game engine based on deepstream](https://github.com/RiverCut/rivercut)
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) and a variety of smaller projects.
 
