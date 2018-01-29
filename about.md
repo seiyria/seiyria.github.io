@@ -16,7 +16,7 @@ I'm 25, like to write code, and I have a [lot of projects](https://github.com/se
 - a [utility to calculate steam average completion percentage](http://seiyria.com/steam-avg-pct/)
 - a [small, idle roguelike](https://github.com/seiyria/Roguathia) [[roguathia](http://seiyria.com/Roguathia)]
 - a [tournament bracket/player management system](http://seiyria.com/tournamentmango) [[tournamentmango.com](http://tournamentmango.com)]
-- a [mobile GPS-based game](https://github.com/reactive-retro) [[reactiveretro.com](http://reactiveretro.com)]
+- a [mobile GPS-based game](https://github.com/reactive-retro)
 - a [retro Bootstrap 3 theme](http://seiyria.com/dos-strap/)
 - a [small project that works with a Tessel to record temperature and more for where I live](https://github.com/seiyria/my-house-cli)
 - a [gameicon font build process and browsing tool](https://github.com/seiyria/gameicons-font)
