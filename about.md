@@ -4,10 +4,20 @@ title: About
 permalink: /about/
 ---
 
-I'm 25, like to write code, and I have a [lot of projects](https://github.com/seiyria) - many web applications/games:
+I'm 25, like to write code, and I have a [lot of projects](https://github.com/seiyria).
+
+These are full, standalone products:
+
+- a [tournament bracket/player management system](http://seiyria.com/tournamentmango) [[tournamentmango.com](http://tournamentmango.com)]
+- an [idle rpg](https://github.com/IdleLands) [[idle.land](http://idle.land)]
+- a [MORPG](https://github.com/LandOfTheRair/landoftherair) [[rair.land](http://rair.land)]
+- a [point of sale system](https://github.com/seiyria/posys)
+- a [web-based board game construction tool](https://github.com/seiyria/deck.zone) [[deck.zone](http://deck.zone)]
+- an [inventory management system](https://github.com/seiyria/inveinta) [[inveinta](https://inveinta.netlify.com)]
+
+These are tools or smaller projects I've made or tinkered with:
 
 - a [slider control with a bootstrap theme (bootstrap-slider)](https://github.com/seiyria/bootstrap-slider)
-- an [idle rpg](https://github.com/IdleLands) [[idle.land](http://idle.land)]
 - a [documentation tool](https://github.com/kellyirc/doks)
 - a [small incremental game](https://github.com/seiyria/c)
 - a [small (incomplete) platformer](http://github.com/seiyria/defiled-dreams/)
@@ -15,17 +25,12 @@ I'm 25, like to write code, and I have a [lot of projects](https://github.com/se
 - a [small utility to help finish a guild wars 2 wardrobe](https://github.com/seiyria/gw2skins)
 - a [utility to calculate steam average completion percentage](http://seiyria.com/steam-avg-pct/)
 - a [small, idle roguelike](https://github.com/seiyria/Roguathia) [[roguathia](http://seiyria.com/Roguathia)]
-- a [tournament bracket/player management system](http://seiyria.com/tournamentmango) [[tournamentmango.com](http://tournamentmango.com)]
 - a [mobile GPS-based game](https://github.com/reactive-retro)
 - a [retro Bootstrap 3 theme](http://seiyria.com/dos-strap/)
 - a [small project that works with a Tessel to record temperature and more for where I live](https://github.com/seiyria/my-house-cli)
 - a [gameicon font build process and browsing tool](https://github.com/seiyria/gameicons-font)
-- a [web-based board game construction tool](https://github.com/seiyria/deck.zone) [[deck.zone](http://deck.zone)]
 - an [app for a convention aggregator called tabletop.events](https://github.com/seiyria/events.tabletop.app)
 - a [MMORPG fansite](https://github.com/seiyria/drakkar) [[drakkar](http://seiyria.com/drakkar)]
-- a [point of sale system](https://github.com/seiyria/posys)
-- a [MORPG](https://github.com/LandOfTheRair/landoftherair) [[rair.land](http://rair.land)]
-- an [inventory management system](https://github.com/seiyria/inveinta) [[inveinta](https://inveinta.netlify.com)]
 - an [experimental game engine based on deepstream](https://github.com/RiverCut/rivercut)
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) and a variety of smaller projects.
