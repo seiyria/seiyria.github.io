@@ -32,6 +32,7 @@ These are tools or smaller projects I've made or tinkered with:
 - an [app for a convention aggregator called tabletop.events](https://github.com/seiyria/events.tabletop.app)
 - a [MMORPG fansite](https://github.com/seiyria/drakkar) [[drakkar](http://seiyria.com/drakkar)]
 - an [experimental game engine based on deepstream](https://github.com/RiverCut/rivercut)
+- a [PWA board game helper for Vast: The Crystal Caverns](https://github.com/seiyria/vast) [[vast](https://vast.seiyria.com)]
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) and a variety of smaller projects.
 
