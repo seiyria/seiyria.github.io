@@ -18,4 +18,4 @@ I was thinking about this and it became extremely noticeable when I had a functi
 
 Popped it in, rewrote some code, and now everything is running way better. I don't have actual numbers, but players reported 2x faster speed (at least, it was that noticeable) with the first update - this was just one change. Today, I did a deeper dive and found some other functions that iterate over everything, fixed them, and I'm looking forward to hearing about the result.
 
-Anyway, if you're making a multiplayer game that depends on anything spatial, you should probably consider using a data structure that facilitiates spatial searching. In every case I'm sure it will be faster than an O(N) loop hundreds of times a second.
+Anyway, if you're making a multiplayer game that depends on anything spatial, you should probably consider using a data structure that facilitiates spatial searching. In every case I'm sure it will be faster than an O(N) loop hundreds of times a second. It's incredibly obvious in hindsight and should go without saying, but here's to the people like me that need a reminder.
