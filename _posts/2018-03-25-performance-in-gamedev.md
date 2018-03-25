@@ -1,6 +1,6 @@
 ---
 title:  "Performance in Game Dev"
-date:   2018-3-25 12:00:00
+date:   2018-03-25 12:00:00
 categories: gamedev, performance
 ---
 
