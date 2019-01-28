@@ -10,6 +10,8 @@ Pshaw, lets automate this.
 
 
 
+
+
 So, where do you get started with automating a game? They're pretty dynamic, and you don't really have the ability to hook into most of them. Well, one method I've seen used in other, similar blog posts is read the screen state and building from there. You'll see blog posts [along this line](https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117) where they grab the screen, parse the state they care about, and do that every so often (depending on the game / action level / etc). That's what we're going to do.
 
 If you're interested in the actual project itself, the link is posted at the end.
