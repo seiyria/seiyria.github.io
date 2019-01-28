@@ -61,18 +61,6 @@ const WINDOW_STATES = {
 We just need an enum to represent all of our possible states (in the order of the priority you want them checked). This list is not fully exhaustive, of course. Next, we need to figure out how to uniquely identify these screens. My strategy is to find a unique pixel on each screen/state that will only be there. This is easier than you think! There are so many gradients / color differences that it's easy to hook onto. So, for the "bridge" screen, my hook is the "Edit Favorite" bit on the left side. There is nothing like that anywhere else in the app, especially in that position, which makes it a prime candidate. We need to do this for each screen, but first, lets make sure our program recognizes it.
 
 I track all of this information in a hash that maps the screen ID to the position, and the color at that position, like so:
-```js
-const WINDOW_INFORMATION = {
-
-  // these 4 states have the highest priority, so they get checked first
-  [WINDOW_STATES.HAS_ACHIEVEMENT_MAP]:        { hex: '710000', pos: { x: 460, y: 240 } },
-  [WINDOW_STATES.HAS_ACHIEVEMENT_LIST]:       { hex: '7A0000', pos: { x: 455, y: 150 } },
-  [WINDOW_STATES.HAS_ACHIEVEMENT_BRIDGE]:     { hex: 'E50909', pos: { x: 475, y: 290 } },
-  [WINDOW_STATES.HAS_GIFT]:                   { hex: '740000', pos: { x: 480, y: 195 } },
-
-  [WINDOW_STATES.BRIDGE]:                     { hex: '159DF1', pos: { x: 210, y: 795 } }
-};
-```
 
 For the "main" screen, there are several different states represented: whether you have a gift, whether you have an achievement, and of course there is the "not that" state, which we can infer by the absence of the prior states. So, that one image is very telling and very useful to us! As for how I got those particular colors, I ran the program and made it tell me what color is there, then I recorded it so I would know for the future what color it is - I didn't use an eyedropper or anything. There are plenty of ways to accomplish this, though.
 
