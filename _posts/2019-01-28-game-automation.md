@@ -47,6 +47,7 @@ There are quite a few screenshots here, mostly covering all of the states I care
 
 This is a lot of screens, and a lot to juggle. But we're getting ahead of ourselves. Lets define some states:
 
+
 ```js
 const WINDOW_STATES = {
   UNKNOWN: 0,
@@ -61,9 +62,11 @@ const WINDOW_STATES = {
 };
 ```
 
+
 We just need an enum to represent all of our possible states (in the order of the priority you want them checked). This list is not fully exhaustive, of course. Next, we need to figure out how to uniquely identify these screens. My strategy is to find a unique pixel on each screen/state that will only be there. This is easier than you think! There are so many gradients / color differences that it's easy to hook onto. So, for the "bridge" screen, my hook is the "Edit Favorite" bit on the left side. There is nothing like that anywhere else in the app, especially in that position, which makes it a prime candidate. We need to do this for each screen, but first, lets make sure our program recognizes it.
 
 I track all of this information in a hash that maps the screen ID to the position, and the color at that position, like so:
+
 
 ```js
 const WINDOW_INFORMATION = {
@@ -78,9 +81,11 @@ const WINDOW_INFORMATION = {
 };
 ```
 
+
 For the "main" screen, there are several different states represented: whether you have a gift, whether you have an achievement, and of course there is the "not that" state, which we can infer by the absence of the prior states. So, that one image is very telling and very useful to us! As for how I got those particular colors, I ran the program and made it tell me what color is there, then I recorded it so I would know for the future what color it is - I didn't use an eyedropper or anything. There are plenty of ways to accomplish this, though.
 
 So, now we have some states and somewhat-reliable detection _of_ those states. We can add some state-machine-esque transitions now in our polling loop (to be shown in a bit). For now, lets focus on transitioning between the main screen and another screen. Here is how I have it set up:
+
 
 ```js
 const WINDOW_TRANSITIONS = {
@@ -94,7 +99,9 @@ const WINDOW_TRANSITIONS = {
 };
 ```
 
+
 What I've is create a simple enter/exit/loop mechanism for each state. Since menu times and performance are different per person, computer, etc, I generally delegate all of my logic to the `onRepeat` loop, which will fire once every time you poll and find that particular state. So, when the program detects we're in the bridge state, it will repeatedly try to transition state between the bridge and the event screen (by clicking the big "Events" button). Essentially, the loop is something like this:
+
 
 ```js
 // poll the nox instance
@@ -127,6 +134,7 @@ const poll = (noxIdx, lastState = WINDOW_STATES.UNKNOWN) => {
   setTimeout(() => poll(noxIdx, state), OPTIONS.POLL_RATE);
 };
 ```
+
 
 Here, we check _each and every state_, check the pixel defined in each state, and then use that to determine what state we're in. If we find a new state, we transition out of the old one, into the new one. Otherwise, we call `onRepeat`.
 
