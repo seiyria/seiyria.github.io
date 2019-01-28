@@ -6,6 +6,9 @@ categories: javascript, automation
 
 Sup. Lately I've been playing a mobile game called [Star Ocean: Anamnesis](https://starocean.square-enix-games.com/home/). It's a mobile [gacha game](https://en.wikipedia.org/wiki/Gacha_game). It's the kind of game where you farm a ton of resources to improve your characters and items, which is pretty enjoyable and zen overall. The problem, also, is that these games require a metric fuckton of farming, and therefore, time investment. This isn't inherently bad, but sometimes they can load a ton of it onto you at once, which you're then expected to spread out amongst several weeks.
 
+
+
+
 Pshaw, lets automate this.
 
 
