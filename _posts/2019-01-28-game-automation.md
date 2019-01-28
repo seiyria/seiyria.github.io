@@ -24,8 +24,8 @@ If you're interested in the actual project itself, the link is posted at the end
 
 So, the first and most important thing you need to do is figure out how you're going to attach to and grab the screen state. I made two small utilities that do this by hooking into win32 using C# via edge-js (what a mouthful):
 
-- https://github.com/seiyria/winpos (get window positions by name)
-- https://github.com/seiyria/pixcolor (get pixel color at x,y)
+- [https://github.com/seiyria/winpos](https://github.com/seiyria/winpos) (get window positions by name)
+- [https://github.com/seiyria/pixcolor](https://github.com/seiyria/pixcolor) (get pixel color at x,y)
 
 This will let us get started! Hooray!
 
