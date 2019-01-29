@@ -47,13 +47,6 @@ This is a lot of screens, and a lot to juggle. But we're getting ahead of oursel
 ```js
 const WINDOW_STATES = {
   UNKNOWN: 0,
-
-  HAS_ACHIEVEMENT_MAP: 1,
-  HAS_ACHIEVEMENT_LIST: 2,
-  HAS_ACHIEVEMENT_BRIDGE: 3,
-
-  HAS_GIFT: 10,
-
   BRIDGE: 50
 };
 ```
@@ -63,12 +56,6 @@ We just need an enum to represent all of our possible states (in the order of th
 I track all of this information in a hash that maps the screen ID to the position, and the color at that position, like so:
 ```js
 const WINDOW_INFORMATION = {
-
-  [WINDOW_STATES.HAS_ACHIEVEMENT_MAP]:        { hex: '710000', pos: { x: 460, y: 240 } },
-  [WINDOW_STATES.HAS_ACHIEVEMENT_LIST]:       { hex: '7A0000', pos: { x: 455, y: 150 } },
-  [WINDOW_STATES.HAS_ACHIEVEMENT_BRIDGE]:     { hex: 'E50909', pos: { x: 475, y: 290 } },
-  [WINDOW_STATES.HAS_GIFT]:                   { hex: '740000', pos: { x: 480, y: 195 } },
-
   [WINDOW_STATES.BRIDGE]:                     { hex: '159DF1', pos: { x: 210, y: 795 } }
 };
 ```
