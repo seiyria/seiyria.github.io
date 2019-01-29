@@ -56,7 +56,7 @@ We just need an enum to represent all of our possible states (in the order of th
 I track all of this information in a hash that maps the screen ID to the position, and the color at that position, like so:
 ```js
 const WINDOW_INFORMATION = {
-  [WINDOW_STATES.BRIDGE]:                     { hex: '159DF1', pos: { x: 210, y: 795 } }
+  WINDOW_STATES.BRIDGE:                     { hex: '159DF1', pos: { x: 210, y: 795 } }
 };
 ```
 
@@ -65,7 +65,7 @@ For the "main" screen, there are several different states represented: whether y
 So, now we have some states and somewhat-reliable detection _of_ those states. We can add some state-machine-esque transitions now in our polling loop (to be shown in a bit). For now, lets focus on transitioning between the main screen and another screen. Here is how I have it set up:
 ```js
 const WINDOW_TRANSITIONS = {
-  [WINDOW_STATES.BRIDGE]: {
+  WINDOW_STATES.BRIDGE: {
     onEnter: () => {},
     onLeave: () => {},
     onRepeat: () => {
