@@ -36,6 +36,7 @@ These are tools or smaller projects I've made or tinkered with:
 - a [PWA single-player version of Tetris Attack](https://github.com/seiyria/endliss) [[endliss](https://endliss.seiyria.com)]
 - a [PWA for Star Ocean: Anamnesis](https://github.com/seiyria/anamnesiac) [[anamnesiac](https://anamnesiac.seiyria.com)]
 - a [PWA board game helper for Munchkin](https://github.com/seiyria/munchcalc) [[munchcalc](https://munchcalc.seiyria.com)]
+- a [PWA board game helper for Root: A Game Of Woodland Might And Right](https://github.com/seiyria/root) [[root](https://root.seiyria.com)]
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) and a variety of smaller projects.
 
