@@ -6,6 +6,8 @@ categories: dokku, autodeploy
 
 As a continuation to [my previous post](https://seiyria.com/server,/dokku/2017/10/12/dokku-scaleway.html) on setting up a VPS and moving away from a PaaS (like heroku), this small post goes into detail how you can get back one of the greatest features of the average PaaS: autodeploy!
 
+
+
 This post will assume you have Dokku and letsencrypt installed already.
 
 So, I was looking to move away from another PaaS that I was one (my last one!) from an old project. A huge pain point of using a private server is that Dokku doesn't have any default auto-deploy support, meaning you have to pre-compile anything before you deploy. Well, every so often I look around and today I stumbled upon [Wharf](https://github.com/palfrey/wharf). What it is, is a simple way to manage Dokku apps on your server with a simplistic UI. It's pretty ugly, but it does the basics of what you need - add/remove env variables, force a deploy, and look at deploy logs.
