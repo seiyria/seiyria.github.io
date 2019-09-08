@@ -25,10 +25,10 @@ style:
 links:
   - github: "https://github.com/seiyria/"
   - twitter: "https://twitter.com/seiyria/"
-  - google-plus: "https://plus.google.com/+KyleJKemp"
-  - reddit: "https://www.reddit.com/user/seiyria/"
+#  - google-plus: "https://plus.google.com/+KyleJKemp"
+#  - reddit: "https://www.reddit.com/user/seiyria/"
 #  - youtube: "https://www.youtube.com/user/m"
-  - steam: "http://steamcommunity.com/id/seiyria/"
+#  - steam: "http://steamcommunity.com/id/seiyria/"
 
 excerpt_separator: "\n\n\n"
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]

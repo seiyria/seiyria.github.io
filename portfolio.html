@@ -1,0 +1,144 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+---
+
+<script src="{{ site.baseurl }}/external/simplelightbox.min.js"></script>
+<script>
+  window.onload = () => {
+    const lightbox = new SimpleLightbox({elements: '.grid a'});
+  }
+</script>
+
+<link rel="stylesheet" href="{{ site.baseurl }}/external/simplelightbox.min.css">
+
+<style>
+  body article {
+    padding: 10px;
+  }
+
+  .app {
+    width: 150px;
+  }
+
+  .desktop {
+    width: 400px;
+  }
+
+  .grid-item {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .grid-sizer,
+  .grid-item {
+    width: 30%; 
+  }
+
+  .slbCaption {
+    position: fixed;
+  }
+
+
+  .grid {
+    columns: 3 200px;
+    column-gap: 2rem;
+  }
+
+  .grid-item {
+      margin: 0 1rem 1rem 0;
+      display: inline-block;
+      width: 100%;
+    } 
+</style>
+
+<div class="grid">
+  <div class="grid-sizer"></div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/anamnesiac.png" title="PWA: Anamnesiac - for Star Ocean: Anamnesis">
+      <img src="{{ site.baseurl }}/images/anamnesiac.png" />
+    </a>
+  </div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/catacombs.png" title="PWA: Catacompanion - for Elzra Catacombs">
+      <img src="{{ site.baseurl }}/images/catacombs.png" />
+    </a>
+  </div>
+
+  <div class="grid-item desktop">
+    <a href="{{ site.baseurl }}/images/deckzone.png" title="deck.zone - a board game creation tool">
+      <img src="{{ site.baseurl }}/images/deckzone.png" />
+    </a>
+  </div>
+
+  <div class="grid-item desktop">
+    <a href="{{ site.baseurl }}/images/dosstrap.png" title="DOSStrap - a custom bootstrap theme from the 90s">
+      <img src="{{ site.baseurl }}/images/dosstrap.png" />
+    </a>
+  </div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/endliss.png" title="Endliss - a simple tetris attack clone">
+      <img src="{{ site.baseurl }}/images/endliss.png" />
+    </a>
+  </div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/idlelands.png" title="PWA/MMO: IdleLands - an idle MMORPG">
+      <img src="{{ site.baseurl }}/images/idlelands.png" />
+    </a>
+  </div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/inveinta.png" title="Inveinta - custom inventory management">
+      <img src="{{ site.baseurl }}/images/inveinta.png" />
+    </a>
+  </div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/munchcalc.png" title="PWA: Munchcalc - a calculator helper for Munchkin">
+      <img src="{{ site.baseurl }}/images/munchcalc.png" />
+    </a>
+  </div>
+
+  <div class="grid-item desktop">
+    <a href="{{ site.baseurl }}/images/rair.png" title="Land of the Rair - a classic MMORPG">
+      <img src="{{ site.baseurl }}/images/rair.png" />
+    </a>
+  </div>
+
+  <div class="grid-item desktop">
+    <a href="{{ site.baseurl }}/images/roguathia.png" title="Roguathia - an idle roguelike">
+      <img src="{{ site.baseurl }}/images/roguathia.png" />
+    </a>
+  </div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/root.png" title="PWA: Root: Woodland Companion - a helper for Root: A Game of Woodland Might and Right">
+      <img src="{{ site.baseurl }}/images/root.png" />
+    </a>
+  </div>
+
+  <div class="grid-item desktop">
+    <a href="{{ site.baseurl }}/images/tournamentmango.png" title="Tournamentmango - a custom tournament/user management solution">
+      <img src="{{ site.baseurl }}/images/tournamentmango.png" />
+    </a>
+  </div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/vast.png" title="PWA: Vast: Crystal Companion - a helper for Vast: The Crystal Caverns">
+      <img src="{{ site.baseurl }}/images/vast.png" />
+    </a>
+  </div>
+
+  <div class="grid-item app">
+    <a href="{{ site.baseurl }}/images/code.png" title="c(ode) - a simple incremental game">
+      <img src="{{ site.baseurl }}/images/code.png" />
+    </a>
+  </div>
+</div>
