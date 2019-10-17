@@ -39,7 +39,7 @@ Once Wharf is deployed, you can go to `http://my-server.tld` (or whatever your s
 Next, you can set the app to auto-deploy from github: 
 
 * First, you need to set the `GITHUB_URL` env variable in dokku so Wharf knows where to pull your app from: `dokku config:set myapp GITHUB_URL=https://github.com/myuser/myrepo.git`. 
-* Set up a `GITHUB_SECRET`. This is used to prevent bad payloads from hihacking your server - you can set it to anything, like so: `dokku config:set myapp GITHUB_SECRET=thisisasupersecret`
+* Set up a `GITHUB_SECRET`. This is used to prevent bad payloads from hihacking your server - you can set it to anything, like so: `dokku config:set wharf GITHUB_SECRET=thisisasupersecret`
 * Second, you need to [set up a GitHub webhook](https://developer.github.com/webhooks/creating/#setting-up-a-webhook). You should point the URL to `http://my-server.tld/webhook` (wherever your Wharf instance is, and append `/webhook`) and it needs to be set to `application/json` for the content type. You also need to match the secret to the `GITHUB_SECRET` you chose above.
 
 Now the app will auto deploy! If you don't need to pre-compile your app, this will be sufficient for you. However, if you're using typescript and don't want the overhead of using ts-node in production, you have a little more work to do. So, just a few more steps to go for that:
