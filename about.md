@@ -8,7 +8,7 @@ I'm 27, like to write code, and I have a [lot of projects](https://github.com/se
 
 These are full, standalone products:
 
-- a [tournament bracket/player management system](http://seiyria.com/tournamentmango) [[tournamentmango](https://seiyria.com/tournamentmango)]
+- a [tournament bracket/player management system](http://seiyria.com/tournamentmango) [[tournamentmango](https://tournamentmango.seiyria.com)]
 - an [idle rpg](https://github.com/IdleLands) [[idle.land](http://idle.land)]
 - a [MORPG](https://github.com/LandOfTheRair/landoftherair) [[rair.land](http://rair.land)]
 - a [point of sale system](https://github.com/seiyria/posys)
