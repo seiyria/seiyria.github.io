@@ -50,3 +50,7 @@ You can find a pdf of my resume [here](http://seiyria.com/resume.pdf) and an (ou
 ### Contact me
 
 You can email me at [kyle at seiyria dot com](mailto:kyle+hire@seiyria.com), or hit one of the buttons below for your preferred medium.
+
+### Want more?
+
+`npx seiyria`
