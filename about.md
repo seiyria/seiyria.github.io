@@ -37,6 +37,7 @@ These are tools or smaller projects I've made or tinkered with:
 - a [PWA for Star Ocean: Anamnesis](https://github.com/seiyria/anamnesiac) [[anamnesiac](https://anamnesiac.seiyria.com)]
 - a [PWA board game helper for Munchkin](https://github.com/seiyria/munchcalc) [[munchcalc](https://munchcalc.seiyria.com)]
 - a [PWA board game helper for Root: A Game Of Woodland Might And Right](https://github.com/seiyria/root) [[root](https://root.seiyria.com)]
+- a [PWA board game helper for Root's Clockwork Expansion](https://github.com/seiyria/clockroot) [[clockroot](https://clockroot.seiyria.com)]
 - a [PWA board game helper for Elzra Catacombs](https://github.com/seiyria/catacompanion) [[catacompanion](https://catacombs.seiyria.com)]
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) and a variety of smaller projects.
@@ -45,7 +46,7 @@ I'm not currently working on anything.
 
 ### Hire me
 
-You can find a pdf of my resume [here](http://seiyria.com/resume.pdf) and an (outdated) interactive version [here](http://seiyria.com/interactive-resume).
+You can find a pdf of my resume [here](http://seiyria.com/resume.pdf) and an (outdated) interactive version [here](http://seiyria.com/interactive-resume). I also have a visual portfolio [on this site](https://seiyria.com/portfolio/).
 
 ### Contact me
 
