@@ -39,6 +39,8 @@ These are tools or smaller projects I've made or tinkered with:
 - a [PWA board game helper for Root: A Game Of Woodland Might And Right](https://github.com/seiyria/root) [[root](https://root.seiyria.com)]
 - a [PWA board game helper for Root's Clockwork Expansion](https://github.com/seiyria/clockroot) [[clockroot](https://clockroot.seiyria.com)]
 - a [PWA board game helper for Elzra Catacombs](https://github.com/seiyria/catacompanion) [[catacompanion](https://catacombs.seiyria.com)]
+- a [small idle game about town/hero management](https://github.com/Rasterkhann/Rasterkhann) [[rasterkhann](https://rasterkhann.com)]
+- a [legacy tracker for Oath: Chronicles of Empire and Exile](https://github.com/seiyria/Oath.Vision) [[oath.vision](https://oath.vision)]
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) and a variety of smaller projects.
 
