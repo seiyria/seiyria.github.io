@@ -32,16 +32,16 @@ These are tools or smaller projects I've made or tinkered with:
 - an [app for a convention aggregator called tabletop.events](https://github.com/seiyria/events.tabletop.app)
 - a [MMORPG fansite](https://github.com/seiyria/drakkar) [[drakkar](http://seiyria.com/drakkar)]
 - an [experimental game engine based on deepstream](https://github.com/RiverCut/rivercut)
-- a [PWA board game helper for Vast: The Crystal Caverns](https://github.com/seiyria/vast) [[vast](https://vast.seiyria.com)]
+- a [PWA board game helper for Vast: The Crystal Caverns](https://github.com/Vagabottos/vast) [[vast](https://vast.seiyria.com)]
 - a [PWA single-player version of Tetris Attack](https://github.com/seiyria/endliss) [[endliss](https://endliss.seiyria.com)]
 - a [PWA for Star Ocean: Anamnesis](https://github.com/seiyria/anamnesiac) [[anamnesiac](https://anamnesiac.seiyria.com)]
 - a [PWA board game helper for Munchkin](https://github.com/seiyria/munchcalc) [[munchcalc](https://munchcalc.seiyria.com)]
-- a [PWA board game helper for Root: A Game Of Woodland Might And Right](https://github.com/seiyria/root) [[root](https://root.seiyria.com)]
-- a [PWA board game helper for Root's Clockwork Expansion](https://github.com/seiyria/clockroot) [[clockroot](https://clockroot.seiyria.com)]
-- a [PWA board game helper for Elzra Catacombs](https://github.com/seiyria/catacompanion) [[catacompanion](https://catacombs.seiyria.com)]
+- a [PWA board game helper for Root: A Game Of Woodland Might And Right](https://github.com/Vagabottos/root) [[root](https://root.seiyria.com)]
+- a [PWA board game helper for Root's Clockwork Expansion](https://github.com/Vagabottos/clockroot) [[clockroot](https://clockroot.seiyria.com)]
+- a [PWA board game helper for Elzra Catacombs](https://github.com/Vagabottos/catacompanion) [[catacompanion](https://catacombs.seiyria.com)]
 - a [small idle game about town/hero management](https://github.com/Rasterkhann/Rasterkhann) [[rasterkhann](https://rasterkhann.com)]
-- a [legacy tracker for Oath: Chronicles of Empire and Exile](https://github.com/seiyria/Oath.Vision) [[oath.vision](https://oath.vision)]
-- a [PWA board game helper for Oath: Chronicles of Empire and Exile](https://github.com/seiyria/oath) [[oath](https://oath.seiyria.com)]
+- a [legacy tracker for Oath: Chronicles of Empire and Exile](https://github.com/Vagabottos/Oath.Vision) [[oath.vision](https://oath.vision)]
+- a [PWA board game helper for Oath: Chronicles of Empire and Exile](https://github.com/Vagabottos/oath) [[oath](https://oath.seiyria.com)]
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) (now defunct), [colyseus](https://colyseus.io) and a variety of smaller projects.
 
