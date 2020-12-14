@@ -42,6 +42,7 @@ These are tools or smaller projects I've made or tinkered with:
 - a [small idle game about town/hero management](https://github.com/Rasterkhann/Rasterkhann) [[rasterkhann](https://rasterkhann.com)]
 - a [legacy tracker for Oath: Chronicles of Empire and Exile](https://github.com/Vagabottos/Oath.Vision) [[oath.vision](https://oath.vision)]
 - a [PWA board game helper for Oath: Chronicles of Empire and Exile](https://github.com/Vagabottos/oath) [[oath](https://oath.seiyria.com)]
+- a [PWA board game state visualizer for Root](https://github.com/Vagabottos/Rootvis) [[rootvis](https://rootvis.seiyria.com)]
 
 I have previously contributed to [herosheets](http://www.herosheets.com/) (now defunct), [colyseus](https://colyseus.io) and a variety of smaller projects.
 
