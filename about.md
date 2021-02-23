@@ -30,7 +30,7 @@ These are tools or smaller projects I've made or tinkered with:
 - a [small project that works with a Tessel to record temperature and more for where I live](https://github.com/seiyria/my-house-cli)
 - a [gameicon font build process and browsing tool](https://github.com/seiyria/gameicons-font)
 - an [app for a convention aggregator called tabletop.events](https://github.com/seiyria/events.tabletop.app)
-- a [MMORPG fansite](https://github.com/seiyria/drakkar) [[drakkar](http://seiyria.com/drakkar)]
+- a [MMORPG fansite](https://github.com/seiyria/drakkar)
 - an [experimental game engine based on deepstream](https://github.com/RiverCut/rivercut)
 - a [PWA board game helper for Vast: The Crystal Caverns](https://github.com/Vagabottos/vast) [[vast](https://vast.seiyria.com)]
 - a [PWA single-player version of Tetris Attack](https://github.com/seiyria/endliss) [[endliss](https://endliss.seiyria.com)]
