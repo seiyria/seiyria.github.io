@@ -32,7 +32,8 @@ These are tools or smaller projects I've made or tinkered with:
 - an [app for a convention aggregator called tabletop.events](https://github.com/seiyria/events.tabletop.app)
 - a [MMORPG fansite](https://github.com/seiyria/drakkar)
 - an [experimental game engine based on deepstream](https://github.com/RiverCut/rivercut)
-- a [PWA board game helper for Vast: The Crystal Caverns](https://github.com/Vagabottos/vast) [[vast](https://vast.seiyria.com)]
+- a [PWA board game helper for Vast: The Crystal Caverns](https://github.com/Vagabottos/vast-cards-and-boards) [[vastcb](https://vastcb.seiyria.com)]
+- another [PWA board game helper for Vast: The Crystal Caverns](https://github.com/Vagabottos/vast) [[vast](https://vast.seiyria.com)]
 - a [PWA single-player version of Tetris Attack](https://github.com/seiyria/endliss) [[endliss](https://endliss.seiyria.com)]
 - a [PWA for Star Ocean: Anamnesis](https://github.com/seiyria/anamnesiac) [[anamnesiac](https://anamnesiac.seiyria.com)]
 - a [PWA board game helper for Munchkin](https://github.com/seiyria/munchcalc) [[munchcalc](https://munchcalc.seiyria.com)]
