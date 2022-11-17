@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I'm 28, like to write code, and I have a [lot of projects](https://github.com/seiyria).
+I'm 30, like to write code, and I have a [lot of projects](https://github.com/seiyria).
 
 These are full, standalone products:
 
@@ -14,6 +14,7 @@ These are full, standalone products:
 - a [point of sale system](https://github.com/seiyria/posys)
 - a [web-based board game construction tool](https://github.com/seiyria/deck.zone) [[deck.zone](http://deck.zone)]
 - an [inventory management system](https://github.com/seiyria/inveinta) [[inveinta](https://inveinta.netlify.com)]
+- a [powerful search tool for a trading card game](https://github.com/LimeLightCards/limelight) [[limelight](https://limelight.cards)]
 
 These are tools or smaller projects I've made or tinkered with:
 
@@ -44,18 +45,19 @@ These are tools or smaller projects I've made or tinkered with:
 - a [legacy tracker for Oath: Chronicles of Empire and Exile](https://github.com/Vagabottos/Oath.Vision) [[oath.vision](https://oath.vision)]
 - a [PWA board game helper for Oath: Chronicles of Empire and Exile](https://github.com/Vagabottos/oath) [[oath](https://oath.seiyria.com)]
 - a [PWA board game state visualizer for Root](https://github.com/Vagabottos/Rootvis) [[rootvis](https://rootvis.seiyria.com)]
+- an [experimental game](https://github.com/TsavoriteGame/tsavorite) [[tsavorite](https://tsavoritegame.com)]
 
-I have previously contributed to [herosheets](http://www.herosheets.com/) (now defunct), [colyseus](https://colyseus.io) and a variety of smaller projects.
+I have previously contributed to [cryptoblades](https://cryptoblades.io), [herosheets](http://www.herosheets.com/) (now defunct), [colyseus](https://colyseus.io) and a variety of smaller projects.
 
 I'm not currently working on anything.
 
 ### Hire me
 
-You can find a pdf of my resume [here](http://seiyria.com/resume.pdf) and an (outdated) interactive version [here](http://seiyria.com/interactive-resume). I also have a visual portfolio [on this site](https://seiyria.com/portfolio/).
+You can find a pdf of my resume [here](http://seiyria.com/KyleKemp.pdf) and an (outdated) interactive version [here](http://seiyria.com/interactive-resume). I also have a visual portfolio [on this site](https://seiyria.com/portfolio/).
 
 ### Contact me
 
-You can email me at [kyle at seiyria dot com](mailto:kyle+hire@seiyria.com), or hit one of the buttons below for your preferred medium.
+You can email me at [kyle at seiyria dot com](mailto:kyle+hire@seiyria.com).
 
 ### Want more?
 
