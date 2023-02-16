@@ -12,6 +12,8 @@ Lately I've been enjoying some bubble tea. It's really, really good, but:
 - it's two cities away (~25min drive)
 - I have no idea what the carb content of the drink is (which is somewhat important)
 
+
+
 So, in an attempt to save money and also have this particular tea whenever I want, I started looking around for how to make it myself. My first attempt was a huge success, so I'm currently reworking the math on how to make it make more sense, but, here's a picture of it first:
 
 ![](https://i.imgur.com/eg1cybf.jpg)
